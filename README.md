@@ -34,3 +34,7 @@ No build step is required.
 ```bash
 npm test
 ```
+
+## Current branch status
+
+This branch is ready for a fresh pull request. It contains the static website, game UI, language lesson engine, responsive styles, and GitHub Pages deployment workflow.
